@@ -1,13 +1,13 @@
 debtaparm
 ======
 
-A script for converting .deb packages into Arch Linux packages, focused on accuracy
+A script for converting .deb packages into Arch Linux ARM packages, focused on accuracy
 
 # FAQ
 
 **Q: What "debtaparm" stands for?**
 
-**A:** DEB To Arch (Linux) Package
+**A:** DEB To Arch (Linux) Package (ARM)
 
 **Q: Isn't better to download an official package or write a PKGBUILD in case I need to compile a package or convert a .deb package to an Arch Linux package?**
 
